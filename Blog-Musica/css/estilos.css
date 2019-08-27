@@ -1,0 +1,63 @@
+.blog-musica{
+	background: url(../img/fondo.jpg);
+	background-position: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.barra-sup{
+	background: rgba(189,12,12,.3);
+	border: none;
+	width: 90%;
+	margin: auto;
+}
+.imagen-redonda{
+	border: 1px solid black;
+	border-radius: 50%;
+	background-color: red;
+	width: 200px;
+}
+.redes-sociales{
+  text-align: right;
+  display: inline-table;
+  margin-top: 10%;
+}
+.img-social{
+	width: 30px;
+	display: inline-block;
+}
+
+.navbar-inverse{
+	width: 90%;
+	margin: auto;
+	background: rgba(237,34,34,.85);
+	border: none;	
+}
+.texto-color{
+	color: white;
+	font-size: 120%;
+}
+
+.table-hover:link{
+	color: white;
+}
+
+.contenido{
+	width: 90%;
+	background: rgba(0,0,0,.85);
+	text-align: justify;
+}
+.imagen-contenido{
+	width: 100%;
+	margin-top: 22%;
+}
+
+@media all and (max-width: 766px) {
+.redes-sociales{
+	text-align: center;
+}
+
+.imagen-redonda{
+	margin: auto;
+}
+
+

@@ -1,0 +1,59 @@
+.fondo-blog{
+	background-image: url(../img/fondo.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.menu-contenedor{
+	width: 100%;
+}
+.img-size{
+	width: 5rem;
+}
+.img-galeria{
+	width: 100%;
+}
+.img-redes{
+	width: 50%;
+	margin-bottom: .5rem
+}
+.margen-img{
+	margin: 20px;
+}
+.margen-inicio{
+	margin-top: 15px;
+}
+.barra-sup{
+	min-height: 7rem;
+}
+.color-text{
+	color: white;
+}
+.bordes-redondos{
+	border-radius: 15px;
+}
+
+.input-field label {
+     color: rgba(0,0,0,1);
+   }
+.avatar{
+	border-radius: 100px;
+	border:1px solid black;
+	padding: 10px;
+	background: rgba(225,0,0,0.50)
+}
+.padding-autor{
+	padding: 3rem;
+}
+
+
+.bordes{
+	border:2px solid black;
+}
+.margen-card{
+	padding-top: 1px;
+	padding-left: 15px;
+	padding.right: 15px;
+	padding-bottom: 15px;
+}

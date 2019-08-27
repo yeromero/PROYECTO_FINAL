@@ -1,0 +1,66 @@
+/****Estilos de la pagina y del titulo****/
+.cuerpo{
+  background-image: url(../images/fondo.jpg);
+  background-size: cover;
+}
+.contenedor{
+  background: rgba(245,74,74,.85)
+}
+.titulo{
+  text-align: right;
+  border-right: 2px solid white;
+  margin-top:1.9%;
+  margin-bottom: 1.9%;
+  color: white;
+}
+.borde-inf{
+  border-bottom: 2px solid white;
+}
+
+/********************************/
+.magnifying{
+  width: 20px;
+}
+.menu-contenedor{
+  border-radius: 10px 10px 10px 10px;
+ border: 1px solid ;
+  text-align: center;
+}
+.centrado{
+  color: white;
+}
+.texto-color{
+  color: white;
+}
+.texto-color:hover{
+  color:black;
+}
+.margen-contenedor{
+  margin-top: 7px;
+}
+.margen-neutro{
+  margin: 0;
+}
+.img-tamano{
+  width: 80%;
+}
+.borde-inferior{
+  border-top: 2px solid white;
+  margin-top: 25px;
+}
+.text-margen{
+  margin: auto;
+}
+
+
+
+
+
+
+
+
+
+.bordes{
+  border: 3px solid black;
+}
+
